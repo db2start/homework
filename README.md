@@ -7,5 +7,7 @@
 >
 ------
 <div align=center>
-![wx](https://github.com/db2start/Bootcamp/blob/master/Images/wx.png "扫一扫添加微信")
+ <img title="扫一扫添加微信" src="https://github.com/db2start/Bootcamp/blob/master/Images/wx.png" />
 </div>
+
+
